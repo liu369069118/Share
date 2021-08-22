@@ -1,0 +1,22 @@
+{
+  "name": "Share",
+  "version": "0.1.0",
+  "summary": "A short description of Share.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liutao.0702/Share",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liutao.0702": "liutao.0702@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/liutao.0702/Share.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Share/Classes/**/*"
+}

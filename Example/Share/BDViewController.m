@@ -7,6 +7,7 @@
 //
 
 #import "BDViewController.h"
+#import <Share/LoginShareManger.h>
 
 @interface BDViewController ()
 
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    LoginShareManger *m = LoginShareManger.alloc.init;
+    [m privateFuncation];
 }
 
 - (void)didReceiveMemoryWarning
